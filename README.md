@@ -37,7 +37,7 @@ A Budget Tracker application that allows users to add expenses and deposits to t
 
 * The graph portrays the total funds over time by date entered for each transaction
 
-  ![PWA Budget Tracker Screenshot](public/assets/images/pwa-budget-tracker-screenshot.png)
+  ![PWA Budget Tracker Screenshot](x)
 
 * The app can be used online and offline
 
@@ -50,12 +50,12 @@ A Budget Tracker application that allows users to add expenses and deposits to t
 
 * There is also the option to download the app
 
-  ![Download App](public/assets/images/download-pwa-icon.png)
+  ![Download App](x)
 
 ## Links
 
-* [Github](https://github.com/mmeii/progressive-budget-tracker)
-* [Live Heroku App](https://mt-progressive-budget-tracker.herokuapp.com/)
+* [Github](x)
+* [Live Heroku App](x)
 
 ## Features
 
